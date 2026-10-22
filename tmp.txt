@@ -1,0 +1,35 @@
+Hi Casey! 👋
+
+Praveen here from Power Rangers! 😄
+
+We had a discussion around a few scenarios, and I wanted to check with you on some observations. Sorry in advance for the slightly longer message! 😅
+
+**1. Minor enablement scenarios in MoneyGuide**
+
+While checking the matrix, we noticed a few inconsistencies in the program enablement for minor-related scenarios:
+
+- **One adult:** None of the employee retirement participant programs are enabled.
+- **Two adults with one minor:** The SCP program is enabled.
+- **One minor alone:** All three programs are enabled.
+
+Could you please confirm if these combinations are expected, or if we need to investigate any inconsistencies before proceeding?
+
+I've attached the relevant screenshots below for reference, along with the matrix links, so we can keep everything in one place.
+
+**2. Proposal creation for two minors**
+
+We also have another question based on a scenario raised by the team.
+
+Let's say we have two minors:
+- **Minor 1:** Enrolled in the MoneyGuide Planning Group.
+- **Minor 2:** Not enrolled in the MoneyGuide Planning Group, but associated with the relationship at the relationship level.
+
+On the MoneyGuide proposal creation screen, we're able to select both minors and proceed with creating a proposal.
+
+Is this expected behavior? In other words, should we be able to create a proposal that includes both an enrolled minor and a minor who is only associated at the relationship level?
+
+Also, based on our understanding of the story, this might fall under the **savings for eligible** scenario. Could you please confirm if that interpretation is correct as well?
+
+Would really appreciate your thoughts on these scenarios before we proceed. If there are any additional observations or edge cases we should consider, please let us know!
+
+Thanks, Casey! 😊
